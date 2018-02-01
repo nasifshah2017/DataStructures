@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1457445291 source:h:\csci 162\assignment 3\assignment 3\deck.cpp
+	"deck.h"
+	"random.h"
+	<iostream>
+	<cstdlib>
+
+1457445331 h:\csci 162\assignment 3\assignment 3\deck.h
+
+1457445310 h:\csci 162\assignment 3\assignment 3\random.h
+
+1457445284 source:h:\csci 162\assignment 3\assignment 3\deck1.cpp
+	"deck.h"
+	"random.h"
+	<iostream>
+	<cstdlib>
+
+1457445277 source:h:\csci 162\assignment 3\assignment 3\random.cpp
+	"random.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1457626885 source:h:\csci 162\assignment 3\assignment 3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"deck.h"
+	"random.h"
+
