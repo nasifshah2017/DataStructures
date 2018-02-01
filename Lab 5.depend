@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1460644048 source:h:\csci 162\lab 5\lab 5\main.cpp
+	"random.h"
+	<iostream>
+	<iomanip>
+
+1454615827 h:\csci 162\lab 5\lab 5\random.h
+
+1454615834 source:h:\csci 162\lab 5\lab 5\random.cpp
+	"random.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
