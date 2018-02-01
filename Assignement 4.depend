@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1459799405 source:h:\csci 162\assignment 4\assignement 4\main.cpp
+	<iostream>
+	<Queue>
+	"random.h"
+	"intQueue.h"
+
+1459122152 h:\csci 162\assignment 4\assignement 4\random.h
+
+1459122104 h:\csci 162\assignment 4\assignement 4\intqueue.h
+
+1459122114 source:h:\csci 162\assignment 4\assignement 4\intqueue.cpp
+	"intQueue.h"
+	<iostream>
+	<cstdlib>
+
+1459122129 source:h:\csci 162\assignment 4\assignement 4\random.cpp
+	"random.h"
+	<cstdlib>
+	<ctime>
+	<cmath>
+
