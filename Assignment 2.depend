@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1454120285 source:c:\users\owner\documents\antigonish\sem 2\comp 162\assignment 2\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
+1454621542 source:h:\csci 162\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
