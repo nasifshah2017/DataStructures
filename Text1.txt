@@ -1,0 +1,4 @@
+See Jack run.  Jack can run fast.  Jack runs after the cat.  The cat's fur is black.  See Jack catch the cat.
+Jack says, "I caught the cat."  
+The cat says, "Meow!"
+Jack has caught 1 meowing cat.  Jack wants 5 cats, but can't find any more.
