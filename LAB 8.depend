@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457722886 source:h:\csci 162\lab 8\lab 8\intqueue.cpp
+	"intQueue.h"
+	<iostream>
+	<cstdlib>
+
+1457722881 h:\csci 162\lab 8\lab 8\intqueue.h
+
+1458229038 source:h:\csci 162\lab 8\lab 8\main.cpp
+	<cstdlib>
+	<iostream>
+	"intQueue.h"
+
