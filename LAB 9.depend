@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1458840649 source:h:\csci 162\lab 9\lab 9\time_test.cpp
+	"time_class.h"
+	<iostream>
+	<iomanip>
+
+1458238353 h:\csci 162\lab 9\lab 9\time_class.h
+	<iostream>
+
+1458843276 source:h:\csci 162\lab 9\lab 9\time_class.cpp
+	"time_class.h"
+	<iostream>
+	<iomanip>
+
