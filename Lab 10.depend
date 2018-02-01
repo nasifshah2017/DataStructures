@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1459443979 source:h:\csci 162\lab 10\lab 10\main.cpp
+	<iostream>
+	"list.h"
+
+1459448996 h:\csci 162\lab 10\lab 10\list.h
+	<iostream>
+	<cstdlib>
+
+1459448673 source:h:\csci 162\lab 10\lab 10\mylist.cpp
+	"list.h"
+
