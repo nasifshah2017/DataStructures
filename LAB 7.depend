@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457117288 source:h:\csci 162\lab 7\lab 7\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1457634580 h:\csci 162\lab 7\lab 7\rectangle.h
+
+1457635152 source:h:\csci 162\lab 7\lab 7\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
